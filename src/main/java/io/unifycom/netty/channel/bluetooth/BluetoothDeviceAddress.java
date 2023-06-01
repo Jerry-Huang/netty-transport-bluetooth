@@ -1,4 +1,4 @@
-package io.channelx.netty.channel.bluetooth;
+package io.unifycom.netty.channel.bluetooth;
 
 import java.net.SocketAddress;
 

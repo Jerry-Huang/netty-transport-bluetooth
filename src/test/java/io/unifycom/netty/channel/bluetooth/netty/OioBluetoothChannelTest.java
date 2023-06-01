@@ -1,7 +1,7 @@
-package io.channelx.netty.channel.bluetooth.netty;
+package io.unifycom.netty.channel.bluetooth.netty;
 
-import io.channelx.netty.channel.bluetooth.BluetoothDeviceAddress;
-import io.channelx.netty.channel.bluetooth.OioBluetoothChannel;
+import io.unifycom.netty.channel.bluetooth.BluetoothDeviceAddress;
+import io.unifycom.netty.channel.bluetooth.OioBluetoothChannel;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.EventLoopGroup;
